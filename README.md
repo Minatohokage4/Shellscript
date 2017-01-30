@@ -1,3 +1,2 @@
 # Shellscript_Practice
-Practics Lab Operation System 
-
+Lab Operation System 
